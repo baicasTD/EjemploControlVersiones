@@ -21,3 +21,9 @@ When you click the **Knit** button a document will be generated that includes bo
 r<-0.5
 Area <- pi*r**2
 ```
+
+#Área de un cuadrado
+```{r}
+L<-3
+AreaCuadrado <- L**2
+```
