@@ -42,4 +42,11 @@ AreaTriangulo <- (b*h)/2
 AreaRectangulo <- b * h
 ```
 
+#Área de un trapecio
+```{r}
+
+AreaTrapecio <- ((B+b)*h)/2
+
+```
+
 
