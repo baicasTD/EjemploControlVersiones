@@ -32,8 +32,14 @@ AreaCuadrado <- L**2
 
 #Área de un triangulo
 ```{r}
-L<-3
+
 AreaTriangulo <- (b*h)/2
+```
+
+#Área de un rectangulo
+```{r}
+
+AreaRectangulo <- b * h
 ```
 
 
