@@ -9,6 +9,6 @@ LongitudCircunferencia <- function(radio) {
 }
 
 PerimetroRectangulo <- function(base, altura) {
-  return (base * altura)
+  return (L+l) *2)
 }
 
